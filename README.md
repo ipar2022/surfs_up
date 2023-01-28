@@ -15,7 +15,8 @@ Years provided 2010-2017
 -![June temps df](https://user-images.githubusercontent.com/113808332/215282461-2ca2e78e-1850-46ec-9add-204f5041622c.png)
 
 
--![June Stats](https://user-images.githubusercontent.com/113808332/215282490-705a9d96-b26d-46b2-ac24-b9d02a4ff289.png)
+- June Statistics 
+- ![June Stats](https://user-images.githubusercontent.com/113808332/215282490-705a9d96-b26d-46b2-ac24-b9d02a4ff289.png)
 
 
 
@@ -30,6 +31,7 @@ Years provided 2010-2017
 
 - ![Dec temps](https://user-images.githubusercontent.com/113808332/215282509-fac08c45-b57a-4d9a-b40b-09707df0bc42.png)
 
+- December Statistics 
 - ![Dec Stats](https://user-images.githubusercontent.com/113808332/215282522-5868620e-1b75-46ff-8dc8-620a2dba69bf.png)
 
 
