@@ -6,6 +6,7 @@ The opportunity of a lifetime to open an ice shop has finally arrived.
 More information about temperature trends will be provided before opening the surf shop. 
 The investor wants temperature data for the months of June and December in Oahu in order to determine if the surf and ice cream shop business is sustainable year-round.
 Using SQLAlchemy to connect to and query a SQLite database (hawaii.sqlite)
+
 Years provided 2010-2017
 
 - Results
