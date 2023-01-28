@@ -25,11 +25,3 @@ Hawaii has temperatures that are consistent and stable. Temperatures rarely exce
 Some additional graphs have been included for analysis.
  
 
-December temperatures shows that on average the temperature rarely goes below 65 degrees Fahrenheit and rarely goes above 80 degrees Fahrenheit.
-
-
-
-Summary
-The temperature data covers several years.
-Hawaii has temperatures that are consistent and stable. Temperatures rarely exceed a range that is uncomfortable for customer while surfing or eating ice cream.
-Some additional graphs have been included for analysis.
